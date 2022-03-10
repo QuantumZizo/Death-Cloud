@@ -1,1 +1,0 @@
-give @s potion{display:{Name:'{"text":"Death Potion","color":"black","bold":true}'},CustomPotionEffects:[{Id:6b,Amplifier:125b,Duration:1}],CustomPotionColor:0} 1
