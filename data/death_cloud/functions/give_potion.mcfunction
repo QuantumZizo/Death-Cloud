@@ -1,1 +1,1 @@
-execute if entity @s[tag=INSERT_NEW_PASSWORD] run give @s potion{display:{Name:'{"text":"Death Potion","color":"black","bold":true}'},CustomPotionEffects:[{Id:6b,Amplifier:125b,Duration:1}],CustomPotionColor:0} 1
+give @s potion{display:{Name:'{"text":"Death Potion","color":"black","bold":true}'},CustomPotionEffects:[{Id:6b,Amplifier:125b,Duration:1}],CustomPotionColor:0} 1
